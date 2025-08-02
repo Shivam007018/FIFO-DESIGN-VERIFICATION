@@ -7,7 +7,7 @@ OUTPUTS : <img width="455" height="311" alt="Screenshot 2025-08-02 213803" src="
 <img width="475" height="485" alt="Screenshot 2025-08-02 213842" src="https://github.com/user-attachments/assets/4b39911f-e36c-4bd5-86e0-66dea722dbc8" />
 <img width="982" height="330" alt="Screenshot 2025-08-02 213900" src="https://github.com/user-attachments/assets/340cbb10-3f72-45a4-9bf1-3e2f7d7b8e9d" />
 
-SCGEMATIC DIAGRAM 
+SCHEMATIC DIAGRAM 
 <img width="1035" height="560" alt="Screenshot 2025-08-02 214212" src="https://github.com/user-attachments/assets/6e776b62-235d-446e-befb-ee8973ff5f7b" />
 
 
